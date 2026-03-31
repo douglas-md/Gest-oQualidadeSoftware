@@ -1,3 +1,5 @@
+//Code review relacionado a disciplina de Gestão de Qualidade de Software
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
